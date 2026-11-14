@@ -1,12 +1,12 @@
 
-# ⚡ Big Data Analytics and Electricity Demand Forecasting using Apache Spark
+# Electricity Demand Forecasting using Apache Spark
 #### By Aarya Khobaragade and Saachee Kothari
 
-## 📌 Project Overview
+## Project Overview
 
-This project focuses on analyzing large-scale household electricity consumption data and forecasting electricity demand using Big Data technologies and Machine Learning.
+This project analyzes large-scale household electricity consumption data and forecasts electricity demand using Big Data technologies and Machine Learning.
 
-Using Apache Spark, the project processes, cleans, transforms, and analyzes millions of electricity consumption records. A Random Forest Regression model is implemented using Spark MLlib to predict electricity demand.
+Using Apache Spark, the project processes, cleans, transforms, and analyzes millions of electricity consumption records. The project implements a Random Forest Regression model using Spark MLlib to predict electricity demand.
 
 An interactive Gradio Dashboard is developed to visualize electricity consumption trends, prediction results, and model performance.
 
