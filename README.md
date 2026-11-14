@@ -1,5 +1,6 @@
 
 # ⚡ Big Data Analytics and Electricity Demand Forecasting using Apache Spark
+#### By Aarya Khobaragade and Saachee Kothari
 
 ## 📌 Project Overview
 
